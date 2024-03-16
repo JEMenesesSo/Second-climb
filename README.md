@@ -1,4 +1,4 @@
 Este repositorio se creo de manera local, desde Visual Studio Code. Se creó el directorio, seguido de un archivo .txt Una vez hecho estos pasos, se mandó $ git init.
 Para crear el primer commit de este repositorio se introdujo $ git add 'Mi primer repositorio.txt' Se creó así el primer commit y se le poné una etiqueta de identificación
 con el $ git commit -m 'Mensaje'. Esta es la forma de saber el commit en el que se encuentra el repositorio. En este caso se etiquetó como 'La primera versión'.
-Una vez hecho este repositorio se creó un repositorio nuevo en GitHub sin nada en él. Ahí salió la opción de vincular un repositorio creado con anterioridad, utilizando los comandos 
+Una vez hecho este repositorio se creó un repositorio nuevo en GitHub sin nada en él. Ahí salió la opción de vincular un repositorio creado con anterioridad, utilizando los comandos: $ git remote add origin https://github.com/JEMenesesSo/Second-climb.git, seguido del comando $ git branch -M main y finalmente $git push -u origin main para que se vinculara con el repositorio en GitHub y quedaran vinculados.
